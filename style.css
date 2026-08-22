@@ -5,11 +5,12 @@ body {
 h1 { 
 font-size: 72px;
     margin-top: 225px;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 h2 {
     font-size: 33px;
+    margin-top: 20px;
 }
 
 .sovrattitolo {
