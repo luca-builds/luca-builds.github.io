@@ -36,11 +36,11 @@ display: inline-block;
 .scelta {
     width: 280px;
     height: 467px;
-    border: 7.5px solid black;
+    border: 5px solid black;
 }
 
 .scelte { 
     display: flex;
     justify-content: center; 
-    gap: 8px
+    gap: 7.5px;
 }
