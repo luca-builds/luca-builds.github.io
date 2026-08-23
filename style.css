@@ -41,6 +41,11 @@ display: inline-block;
     z-index: 1;
 }
 
+.scelta p {
+    font-size: 20px
+        position: relative;
+    bottom: 40px
+
 .scelte { 
     display: flex;
     justify-content: center; 
