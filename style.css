@@ -32,3 +32,12 @@ display: inline-block;
         font-size: 40px;
         margin-top: 135px;
 }
+
+.scelta {
+    width: 350px;
+    height: 650px;
+}
+
+.modal { 
+    display: flex;
+}
