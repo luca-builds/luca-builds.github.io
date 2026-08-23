@@ -42,9 +42,10 @@ display: inline-block;
 }
 
 .scelta p {
-    font-size: 20px
+    font-size: 20px;
         position: relative;
-    bottom: 40px
+    bottom: 40px;
+}
 
 .scelte { 
     display: flex;
