@@ -37,6 +37,7 @@ display: inline-block;
     width: 280px;
     height: 455px;
     border: 4px solid black;
+    background-color: white;
 }
 
 .scelte { 
