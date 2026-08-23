@@ -44,7 +44,7 @@ display: inline-block;
 .scelta p {
     font-size: 20px;
         position: relative;
-    bottom: 40px;
+    top: 40px;
 }
 
 .scelte { 
