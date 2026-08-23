@@ -44,3 +44,10 @@ display: inline-block;
     justify-content: center; 
     gap: 8px;
 }
+
+
+.modal { 
+    
+    position: fixed;
+
+}
