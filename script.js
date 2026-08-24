@@ -1,1 +1,1 @@
-document.queryselector(".modal")
+const Modal = document.queryselector(".modal")
