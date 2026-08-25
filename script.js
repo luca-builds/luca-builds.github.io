@@ -1,7 +1,7 @@
 const modal = document.querySelector(".modal");
 const linkInizia = document.querySelector(".inizia");
 function provaClick() {
-  console.log("hai cliccato il link, GG per te") 
+  modal.style.display = "block"
 }
 
 linkInizia.addEventListener("click", provaClick)
