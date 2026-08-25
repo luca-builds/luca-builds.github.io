@@ -85,3 +85,8 @@ display: inline-block;
     right:0;
     z-index: 0;
 }
+
+.chiudi {
+    position: absolute;
+    top: 20px
+    left: 20px
