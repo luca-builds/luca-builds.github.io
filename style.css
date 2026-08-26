@@ -92,4 +92,6 @@ display: inline-block;
     left: 85px;
     font-size: 58px;
     z-index: 2;
+    background-color: black;
+    color: white;
 }
