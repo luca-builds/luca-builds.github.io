@@ -31,6 +31,8 @@ h2 {
 display: inline-block;
         font-size: 40px;
         margin-top: 135px;
+        text-decoration: none;
+        color: darkgreen; 
 }
 
 .scelta {
