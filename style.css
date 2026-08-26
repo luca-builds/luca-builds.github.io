@@ -91,4 +91,5 @@ display: inline-block;
     top: 57px;
     left: 85px;
     font-size: 58px;
+    z-index: 2;
 }
