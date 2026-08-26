@@ -39,6 +39,8 @@ display: inline-block;
     border: 4px solid black;
     background-color: white;
     z-index: 1;
+    text-decoration: none;
+    color: inherit;
 }
 
 .scelta p {
