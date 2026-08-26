@@ -33,6 +33,7 @@ display: inline-block;
         margin-top: 135px;
         text-decoration: none;
         color: darkgreen; 
+        border: 2px solid black;
 }
 
 .scelta {
