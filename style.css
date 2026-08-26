@@ -90,10 +90,10 @@ display: inline-block;
     position: absolute;
     top: 57px;
     left: 85px;
-    font-size: 58px;
+    font-size: 48px;
     z-index: 2;
     background-color: black;
     color: white;
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
 }
